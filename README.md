@@ -1,2 +1,2 @@
 # CompactClient
-The first Crafter hackclient!
+The first Crafter hack/tool client!
